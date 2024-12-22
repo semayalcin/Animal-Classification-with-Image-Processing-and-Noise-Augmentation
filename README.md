@@ -79,3 +79,5 @@ Bu çalışmada, hayvan sınıflandırması için oluşturulan modelin performan
 + **Model Mimarisi İyileştirmeleri:** Konvolüsyon katmanlarının derinliğinin artırılması veya özel filtrelerin eklenmesi gibi mimari değişikliklerle modelin manipülasyonlara ve renk değişimlerine karşı daha dayanıklı hale gelmesi sağlanabilir. Modelin doğruluk oranını artırmak için daha derin ağ yapıları (daha fazla katman veya daha büyük katmanlar) kullanılabilir. Ancak modeli eğitirken de çok fazla parametre kullanılacağı da göz önünde bulundurulmalıdır.
 
 + **Transfer Öğrenme Kullanımı:** Daha büyük ve çeşitli bir veri kümesi üzerinde önceden eğitilmiş bir modelin yeniden eğitilmesi, sınırlı veri kümesiyle çalışan modellerde performans artışı sağlayabilir.
+
+<br/>**Kaggle:** [Renk Sabitliği ve Manipülasyon Dayanıklılığının Görüntü Sınıflandırma Performansına Etkisi](https://www.kaggle.com/code/semayln/renk-sabitli-i-ve-manip-lasyon-dayan-kl-l-n-n-g)
